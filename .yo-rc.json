@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "mx.shcp.om.planeacion"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "planeacionGob",
+    "packageName": "mx.shcp.om.planeacion",
+    "packageFolder": "mx/shcp/om/planeacion",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmNiYjRkNzg4NDViNmQzMDU2NWNjNWFkY2UzNzYzMTc0NWExZDQ3YTI2ODE4NjFhMDA1ODc4YTljZmJiMmE3YWUwZmI3NDFhYjc5NTBmN2FmMThmMzllOTBiZWFmZjk0YmU4MzlmMDVkNGJkYjgyMmY0MGFhNTYwYTJiY2YyZWM=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
